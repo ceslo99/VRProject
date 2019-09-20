@@ -1,6 +1,6 @@
 # VRProject
 
-Plan to do add some voice functunality. Experimenting with VR
+Plan to do add some voice functionality. Experimenting with VR.
 https://vrspotify.glitch.me/
 
 add spotify functionality
